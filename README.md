@@ -1,12 +1,13 @@
 <h1 align="center">
 Hola, Soy Esveidy!
 	<a href="https://github.com/Bouaskaoun" target="_self">
-		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
+			 style="border-radius: 20px; box-shadow: 0px 10px 25px rgba(214, 51, 132, 0.3);" width="30">
 	</a>
 </h1>
 
 <a href="https://github.com/CtorW">
-<img src="https://github.com/user-attachments/assets/77f249fa-d3bf-4ece-aad2-7fe374d1217f" />
+	<img src="https://raw.githubusercontent.com/EsveidyLizeth/EsveidyLizeth/main/fondoGit.gif" />
 </a>
 
 <BR>
@@ -55,3 +56,8 @@ Actualmente estoy enfocándome en:
   </a>
 </p>
 
+---
+
+<p align="center">
+  ✨ Gracias por visitar mi perfil ✨
+</p>
